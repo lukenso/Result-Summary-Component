@@ -17,7 +17,7 @@ This challenge has something for everyone. It’s a HTML and CSS only project.
 
 ## Resources
 
-- Challange URL: [Click here](#)
+- Challange URL: [Click here](https://www.frontendmentor.io/solutions/result-summary-component-ixguL9WDxV)
 - Live Site URL: [Click here](https://lukenso.github.io/Result-Summary-Component/)
 ## Author
 
