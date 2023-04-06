@@ -11,7 +11,7 @@ This challenge has something for everyone. It’s a HTML and CSS only project.
 - Flexbox
 - Responsive Design
 
-## Designed for ony two devices 
+## Designed for only two devices 
 - Mobile (375px)
 - Desktop(1440px)
 
